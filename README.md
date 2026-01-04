@@ -372,8 +372,6 @@ Contributions are welcome! If you'd like to improve this dashboard:
 
 **Project Link:** https://github.com/arghadeepnandi/IPL-ANALYSIS
 
----
-
 
 ---
 
