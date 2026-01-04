@@ -352,12 +352,6 @@ Match outcome distribution:
 
 Contributions are welcome! If you'd like to improve this dashboard:
 
-1. **Fork the repository**
-2. **Create a feature branch** (`git checkout -b feature/CricketFeature`)
-3. **Commit your changes** (`git commit -m 'Add player comparison feature'`)
-4. **Push to the branch** (`git push origin feature/CricketFeature`)
-5. **Open a Pull Request**
-
 ### Contribution Ideas:
 - Add new cricket metrics (dot ball percentage, boundary percentage)
 - Implement player vs player head-to-head analysis
@@ -370,7 +364,6 @@ Contributions are welcome! If you'd like to improve this dashboard:
 
 ## 📧 Contact
 
-**Your Name**
 
 - GitHub: https://github.com/arghadeepnandi
 - LinkedIn: https://www.linkedin.com/in/arghadeep-nandi-159523252/
@@ -381,9 +374,6 @@ Contributions are welcome! If you'd like to improve this dashboard:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
